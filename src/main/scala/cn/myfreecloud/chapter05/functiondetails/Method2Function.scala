@@ -1,4 +1,4 @@
-package cn.myfreecloud.chapter05
+package cn.myfreecloud.chapter05.functiondetails
 
 object Method2Function {
   def main(args: Array[String]): Unit = {
